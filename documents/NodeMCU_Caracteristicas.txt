@@ -1,0 +1,11 @@
+Procesador: ESP8266 @ 80MHz (3.3V) (ESP-12E)
+4MB de memoria FLASH (32 MBit)
+WiFi 802.11 b/g/n
+Regulador 3.3V integrado (500mA)
+Conversor USB-Serial CH340G / CH340G
+Función Auto-reset 
+9 pines GPIO con I2C y SPI
+1 entrada analógica (1.0V max)
+4 agujeros de montaje (3mm)
+Pulsador de RESET
+Entrada alimentación externa VIN (20V max)
